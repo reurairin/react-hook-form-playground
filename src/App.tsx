@@ -1,5 +1,7 @@
+import { DemoForm } from "./modules/form/DemoForm/DemoForm";
+
 function App() {
-  return <>Hello world</>;
+  return <DemoForm />;
 }
 
 export default App;
